@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning about new technologies
 - 👯 I’m looking to collaborate on eHMS project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking projects that aim to solve real-world problems using technology.
+- 💬 Ask me about: Coding, projects, life.
 - 📫 How to reach me: <a href="mailto:bwilukiroelisha@gmail.com">E-mail Me</a>
 - 😄 Pronouns: He
 - ⚡ Fun fact: Helping others and solving complex puzzles.
