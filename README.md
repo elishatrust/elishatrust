@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on developing scalable and efficient projects
 - 🌱 I’m currently learning about new technologies
 - 👯 I’m looking to collaborate on eHMS project
 - 🤔 I’m looking projects that aim to solve real-world problems using technology.
