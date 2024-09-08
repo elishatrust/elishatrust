@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-**elishatrust/elishatrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Elisha ✨ and I am a Computer Engineer 👨‍💻 by education, Software Developer by passion 🙂.
+Looking forward to entering the Startup Space.
 
 - 🔭 I’m currently working on developing scalable and efficient projects
 - 🌱 I’m currently learning about new technologies
