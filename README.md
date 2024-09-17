@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Elisha ✨ and I am a Computer Engineer 👨‍💻 by education, Software Developer by passion 🙂.
+Elisha Bwilukiro, my name. ✨  Computer Science by Education 👨‍💻, Software Developer by passion 🙂.
 Looking forward to entering the Startup Space.
 
 - 🔭 I’m currently working on developing scalable and efficient projects
